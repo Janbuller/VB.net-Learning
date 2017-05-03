@@ -1,0 +1,12 @@
+c:\users\lazze\documents\visual studio 2017\Projects\Equation Calculator\Equation Calculator\obj\Debug\Equation Calculator.vbprojResolveAssemblyReference.cache
+c:\users\lazze\documents\visual studio 2017\Projects\Equation Calculator\Equation Calculator\obj\Debug\Equation_Calculator.Form1.resources
+c:\users\lazze\documents\visual studio 2017\Projects\Equation Calculator\Equation Calculator\obj\Debug\Equation_Calculator.Resources.resources
+c:\users\lazze\documents\visual studio 2017\Projects\Equation Calculator\Equation Calculator\obj\Debug\Equation Calculator.vbproj.GenerateResource.Cache
+c:\users\lazze\documents\visual studio 2017\Projects\Equation Calculator\Equation Calculator\bin\Debug\Equation Calculator.exe.config
+c:\users\lazze\documents\visual studio 2017\Projects\Equation Calculator\Equation Calculator\bin\Debug\Equation Calculator.exe
+c:\users\lazze\documents\visual studio 2017\Projects\Equation Calculator\Equation Calculator\bin\Debug\Equation Calculator.pdb
+c:\users\lazze\documents\visual studio 2017\Projects\Equation Calculator\Equation Calculator\bin\Debug\Equation Calculator.xml
+c:\users\lazze\documents\visual studio 2017\Projects\Equation Calculator\Equation Calculator\bin\Debug\NCalc.dll
+c:\users\lazze\documents\visual studio 2017\Projects\Equation Calculator\Equation Calculator\obj\Debug\Equation Calculator.exe
+c:\users\lazze\documents\visual studio 2017\Projects\Equation Calculator\Equation Calculator\obj\Debug\Equation Calculator.xml
+c:\users\lazze\documents\visual studio 2017\Projects\Equation Calculator\Equation Calculator\obj\Debug\Equation Calculator.pdb

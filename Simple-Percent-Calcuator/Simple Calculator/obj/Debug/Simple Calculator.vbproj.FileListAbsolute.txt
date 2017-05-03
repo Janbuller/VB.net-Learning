@@ -1,0 +1,11 @@
+c:\users\lazze\documents\visual studio 2017\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.vbprojResolveAssemblyReference.cache
+c:\users\lazze\documents\visual studio 2017\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.SMPLPCTCALC.resources
+c:\users\lazze\documents\visual studio 2017\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Resources.resources
+c:\users\lazze\documents\visual studio 2017\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.vbproj.GenerateResource.Cache
+c:\users\lazze\documents\visual studio 2017\Projects\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+c:\users\lazze\documents\visual studio 2017\Projects\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+c:\users\lazze\documents\visual studio 2017\Projects\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+c:\users\lazze\documents\visual studio 2017\Projects\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.xml
+c:\users\lazze\documents\visual studio 2017\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+c:\users\lazze\documents\visual studio 2017\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.xml
+c:\users\lazze\documents\visual studio 2017\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb

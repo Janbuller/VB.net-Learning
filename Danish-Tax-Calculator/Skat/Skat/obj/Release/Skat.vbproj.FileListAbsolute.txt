@@ -1,0 +1,10 @@
+c:\users\lazze\documents\visual studio 2017\Projects\Skat\Skat\bin\Release\Skat.exe.config
+c:\users\lazze\documents\visual studio 2017\Projects\Skat\Skat\bin\Release\Skat.exe
+c:\users\lazze\documents\visual studio 2017\Projects\Skat\Skat\bin\Release\Skat.pdb
+c:\users\lazze\documents\visual studio 2017\Projects\Skat\Skat\bin\Release\Skat.xml
+c:\users\lazze\documents\visual studio 2017\Projects\Skat\Skat\obj\Release\Skat.Form1.resources
+c:\users\lazze\documents\visual studio 2017\Projects\Skat\Skat\obj\Release\Skat.Resources.resources
+c:\users\lazze\documents\visual studio 2017\Projects\Skat\Skat\obj\Release\Skat.vbproj.GenerateResource.Cache
+c:\users\lazze\documents\visual studio 2017\Projects\Skat\Skat\obj\Release\Skat.exe
+c:\users\lazze\documents\visual studio 2017\Projects\Skat\Skat\obj\Release\Skat.xml
+c:\users\lazze\documents\visual studio 2017\Projects\Skat\Skat\obj\Release\Skat.pdb

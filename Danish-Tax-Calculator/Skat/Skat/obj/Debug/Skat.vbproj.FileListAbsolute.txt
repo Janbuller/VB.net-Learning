@@ -1,0 +1,11 @@
+c:\users\lazze\documents\visual studio 2017\Projects\Skat\Skat\bin\Debug\Skat.exe.config
+c:\users\lazze\documents\visual studio 2017\Projects\Skat\Skat\bin\Debug\Skat.exe
+c:\users\lazze\documents\visual studio 2017\Projects\Skat\Skat\bin\Debug\Skat.pdb
+c:\users\lazze\documents\visual studio 2017\Projects\Skat\Skat\bin\Debug\Skat.xml
+c:\users\lazze\documents\visual studio 2017\Projects\Skat\Skat\obj\Debug\Skat.vbprojResolveAssemblyReference.cache
+c:\users\lazze\documents\visual studio 2017\Projects\Skat\Skat\obj\Debug\Skat.Form1.resources
+c:\users\lazze\documents\visual studio 2017\Projects\Skat\Skat\obj\Debug\Skat.Resources.resources
+c:\users\lazze\documents\visual studio 2017\Projects\Skat\Skat\obj\Debug\Skat.vbproj.GenerateResource.Cache
+c:\users\lazze\documents\visual studio 2017\Projects\Skat\Skat\obj\Debug\Skat.exe
+c:\users\lazze\documents\visual studio 2017\Projects\Skat\Skat\obj\Debug\Skat.xml
+c:\users\lazze\documents\visual studio 2017\Projects\Skat\Skat\obj\Debug\Skat.pdb
